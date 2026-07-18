@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-13-websocket-gateway-auth",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-13-websocket-gateway-auth": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-13-websocket-gateway-auth",
+    "origin"
+  ]
+}
